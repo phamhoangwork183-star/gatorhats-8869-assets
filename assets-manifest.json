@@ -1,0 +1,457 @@
+{
+ "kind": "gatorhats-8869-assets",
+ "count": 75,
+ "files": [
+  {
+   "path": "Multi Hat Redesigned/Multi Hat 1.png",
+   "bytes": 1414029,
+   "sha256": "1a081219846caf83ed27f91114c701b71e0e56ab1d591825626cdba94a5c1ce0",
+   "core_path": "assets/Multi Hat Redesigned/Multi Hat 1.png"
+  },
+  {
+   "path": "Multi Hat Redesigned/Multi Hat 10.png",
+   "bytes": 1171640,
+   "sha256": "1ce899b80824f5e7f716f8213ad80c03b998947673a95183841cce1d3ebc0aa5",
+   "core_path": "assets/Multi Hat Redesigned/Multi Hat 10.png"
+  },
+  {
+   "path": "Multi Hat Redesigned/Multi Hat 2.png",
+   "bytes": 793453,
+   "sha256": "8d9117b3ef07746031699837a4e7b7850dc8b8d0cf66153d78a9bbae73be18cd",
+   "core_path": "assets/Multi Hat Redesigned/Multi Hat 2.png"
+  },
+  {
+   "path": "Multi Hat Redesigned/Multi Hat 3.png",
+   "bytes": 1645898,
+   "sha256": "5fde79ab629365fafd1c9ee4419a7334736feb2242072c6d2695036c95e5f870",
+   "core_path": "assets/Multi Hat Redesigned/Multi Hat 3.png"
+  },
+  {
+   "path": "Multi Hat Redesigned/Multi Hat 4.png",
+   "bytes": 853869,
+   "sha256": "f64fd5315cd54a72d3c62808fcf83ec567bf02195a59e76971f47072890dc651",
+   "core_path": "assets/Multi Hat Redesigned/Multi Hat 4.png"
+  },
+  {
+   "path": "Multi Hat Redesigned/Multi Hat 5.png",
+   "bytes": 694379,
+   "sha256": "e1bc24eca3ad773610ee9ef7385a8e615a82560e48593f11ac13fed56c64ee8f",
+   "core_path": "assets/Multi Hat Redesigned/Multi Hat 5.png"
+  },
+  {
+   "path": "Multi Hat Redesigned/Multi Hat 6.png",
+   "bytes": 1311853,
+   "sha256": "8cb07ff26af63c78f093623cd565818a81762438b8a787e7dd63eea8e4b6fcfc",
+   "core_path": "assets/Multi Hat Redesigned/Multi Hat 6.png"
+  },
+  {
+   "path": "Multi Hat Redesigned/Multi Hat 7.png",
+   "bytes": 1421422,
+   "sha256": "a35e4164830f35c790561a428cc4642c775b2726f22d408601255b84ac72f379",
+   "core_path": "assets/Multi Hat Redesigned/Multi Hat 7.png"
+  },
+  {
+   "path": "Multi Hat Redesigned/Multi Hat 8.png",
+   "bytes": 780673,
+   "sha256": "c3dddd47b6f4abdb3ed92a4bbc933572537b172bb8f1f4ffcb890f5e848c2b41",
+   "core_path": "assets/Multi Hat Redesigned/Multi Hat 8.png"
+  },
+  {
+   "path": "Multi Hat Redesigned/Multi Hat 9.png",
+   "bytes": 1467800,
+   "sha256": "c5c7ae62270d9ed8a03dedab0d8ac90ddca02c5803933d9c1ff6b8c2e75ba863",
+   "core_path": "assets/Multi Hat Redesigned/Multi Hat 9.png"
+  },
+  {
+   "path": "Placement Guide/Size Guide-Back.png",
+   "bytes": 84405,
+   "sha256": "39bb8972a7135c8647e1be268999c09cc761af4f75a585fc0b658febe458e5cb",
+   "core_path": "assets/Placement Guide/Size Guide-Back.png"
+  },
+  {
+   "path": "Placement Guide/Size Guide-Front.png",
+   "bytes": 179949,
+   "sha256": "3652baef4b0b7963032b03e7c436693934acb8e6acd5d0979b91db15449026b0",
+   "core_path": "assets/Placement Guide/Size Guide-Front.png"
+  },
+  {
+   "path": "embroidery-reference-10/01-blue-script-close-contact.jpg",
+   "bytes": 30376,
+   "sha256": "6b730fd6d147d8ae50beb77ceb343eca9948b651fa57c1844986c6e93664b491",
+   "core_path": "assets/embroidery-reference-10/01-blue-script-close-contact.jpg"
+  },
+  {
+   "path": "embroidery-reference-10/02-burgundy-lettering-side-perspective.jpg",
+   "bytes": 155671,
+   "sha256": "8df97f7e36f03d7cc6f898dadc4dd7e4b6b08de08eac11e563113eb10f55df1d",
+   "core_path": "assets/embroidery-reference-10/02-burgundy-lettering-side-perspective.jpg"
+  },
+  {
+   "path": "embroidery-reference-10/03-multi-line-arched-typography.jpg",
+   "bytes": 37271,
+   "sha256": "6201415fcc124bec709001dfa42cb1861e1f1fa84046c5739540b7139fe6e43e",
+   "core_path": "assets/embroidery-reference-10/03-multi-line-arched-typography.jpg"
+  },
+  {
+   "path": "embroidery-reference-10/04-western-lettering-three-quarter.jpg",
+   "bytes": 59960,
+   "sha256": "63a9363b3ceda320bf0ecf0cb0a81eafae7d258395d7bd5eab0af488c34136da",
+   "core_path": "assets/embroidery-reference-10/04-western-lettering-three-quarter.jpg"
+  },
+  {
+   "path": "embroidery-reference-10/05-western-lettering-natural-photo.jpg",
+   "bytes": 148709,
+   "sha256": "936f570427bdcc7f70a33b87f7e52263409e156ada68c8a068f0a5dde5ba4d74",
+   "core_path": "assets/embroidery-reference-10/05-western-lettering-natural-photo.jpg"
+  },
+  {
+   "path": "embroidery-reference-10/06-small-pictogram-script.jpg",
+   "bytes": 23662,
+   "sha256": "4adb0f300eaca1daa3f35d8276e81272448df53b51fd868d583f608dfb7a17b0",
+   "core_path": "assets/embroidery-reference-10/06-small-pictogram-script.jpg"
+  },
+  {
+   "path": "embroidery-reference-10/07-two-line-green-type.jpg",
+   "bytes": 71184,
+   "sha256": "8144f6c19ba71064af8d96c4ca35e55dea62094bd58f3b6289586ea415bfcffa",
+   "core_path": "assets/embroidery-reference-10/07-two-line-green-type.jpg"
+  },
+  {
+   "path": "embroidery-reference-10/08-light-script-dark-crown.jpg",
+   "bytes": 66083,
+   "sha256": "42a1aa142907aed19ceffd0a7be1f26b31e73793ab438f7a495783ca66842422",
+   "core_path": "assets/embroidery-reference-10/08-light-script-dark-crown.jpg"
+  },
+  {
+   "path": "embroidery-reference-10/09-small-multicolor-emblem.jpg",
+   "bytes": 29606,
+   "sha256": "723564a5e4b10872e622c981dc8d4882877b85ecba2c49685d2b6c028eb3f562",
+   "core_path": "assets/embroidery-reference-10/09-small-multicolor-emblem.jpg"
+  },
+  {
+   "path": "embroidery-reference-10/10-blue-script-lifestyle-top-angle.jpg",
+   "bytes": 105214,
+   "sha256": "753ad2b213010e9c3c8fcb212b23fbbf44015d9280212fdad152dd2de4847d4f",
+   "core_path": "assets/embroidery-reference-10/10-blue-script-lifestyle-top-angle.jpg"
+  },
+  {
+   "path": "size-refs/medium-beach-bum.png",
+   "bytes": 199498,
+   "sha256": "adea17706bfa013c8b69668aa95a3bd445d24d48807734bcdc905235d96c2d09",
+   "core_path": "assets/size-refs/medium-beach-bum.png"
+  },
+  {
+   "path": "stock/back/README.txt",
+   "bytes": 77,
+   "sha256": "3912084064dcd83140f0a4845d328d495bb4aa4b6153cac724e4f8b1fc85860e",
+   "core_path": "assets/stock/back/README.txt"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Black_Back_High.jpg",
+   "bytes": 97795,
+   "sha256": "93835f6972b691f42e48a6464f9e86a395914bbabe2874ca9348639c36a851ca",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Black_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Brown_Back_High.jpg",
+   "bytes": 84028,
+   "sha256": "270f214e01204974f66f5e66939f86d04f93aa006605506ba534666a9dc2bac8",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Brown_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Camo_Green_Back_High.jpg",
+   "bytes": 101592,
+   "sha256": "49b3d71e8bad65e684bcf31bef1590efd870247e07cdc17d1314ace19b0d1ef7",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Camo_Green_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Charcoal_Back_High.jpg",
+   "bytes": 84134,
+   "sha256": "3ef034edf920475a8dc791e66861750da197a9bca77afd270467a0c75bb950ad",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Charcoal_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Forest_Green_Back_High.jpg",
+   "bytes": 97776,
+   "sha256": "21329a0de985b37729ef3fff623b89dbd5d0e3faab5ae32aecfcd24f45c2fc2b",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Forest_Green_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Khaki_Back_High.jpg",
+   "bytes": 97369,
+   "sha256": "ec720276ed7b9238d93c396f29972d4ccf31ac3dbf143c1cd2bbb0a84add20c1",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Khaki_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Maroon_Back_High.jpg",
+   "bytes": 85768,
+   "sha256": "1d98b6bfa82002d6bd7483816fdf317bb2b6c1f9f24a5af1ec79f205c14c5902",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Maroon_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Mossy_Oak_Breakup_Back_High.jpg",
+   "bytes": 99457,
+   "sha256": "40fe36374f781ef1c1b9aa60a6f7c21750005ae21cc390cb60a5b5677f900e7a",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Mossy_Oak_Breakup_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Navy_Back_High.jpg",
+   "bytes": 97771,
+   "sha256": "b1d704fb8487dc8171c3213098bcf75368d415ce21cd1e57f82791981e29017d",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Navy_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Realtree_All_Purpose_Back_High.jpg",
+   "bytes": 99480,
+   "sha256": "64fe0897cde411cbbc3697b0b2c13881b4a62b0bcd8640c692f961d332aebc82",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Realtree_All_Purpose_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Red_Back_High.jpg",
+   "bytes": 97700,
+   "sha256": "4a563291e718bb97b72e496b4cc0b654dcd75360ffcdcae408972c0758589a87",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Red_Back_High.jpg"
+  },
+  {
+   "path": "stock/back/Valucap_8869_Natural-_Royal_Back_High.jpg",
+   "bytes": 97718,
+   "sha256": "38a2af0bb63d0b5b6744dcf5bf1b9fb0fb27dd8c58993c3e080cd81ac403fe09",
+   "core_path": "assets/stock/back/Valucap_8869_Natural-_Royal_Back_High.jpg"
+  },
+  {
+   "path": "stock/front/01-f-navy.webp",
+   "bytes": 562678,
+   "sha256": "afa3ef65cba8e9f60efb2aee1d35b659d7d39a1561b54eb7467f4d0fa0878152",
+   "core_path": "assets/stock/front/01-f-navy.webp"
+  },
+  {
+   "path": "stock/front/02-f-02-realtree.webp",
+   "bytes": 678458,
+   "sha256": "834b60e3121d6d2b3f47cc2ace961364f32d84922737f7ec6f3fbe1dbdc388a8",
+   "core_path": "assets/stock/front/02-f-02-realtree.webp"
+  },
+  {
+   "path": "stock/front/03-f-red.webp",
+   "bytes": 565340,
+   "sha256": "adb63f064438392a802934f8e0bbf37d4e2e03ba490d7c7ba638f1697dd04fec",
+   "core_path": "assets/stock/front/03-f-red.webp"
+  },
+  {
+   "path": "stock/front/04-f-royal.webp",
+   "bytes": 571168,
+   "sha256": "f8cc1026cdcf952318e6e95085739c30101666cae442f26aa5838963b8c2c6b6",
+   "core_path": "assets/stock/front/04-f-royal.webp"
+  },
+  {
+   "path": "stock/front/05-f-maroon.webp",
+   "bytes": 534942,
+   "sha256": "d7f1a484d9e688ae5c2b18f64e60c598c2b05e3500a26aaf6be249814a325f1f",
+   "core_path": "assets/stock/front/05-f-maroon.webp"
+  },
+  {
+   "path": "stock/front/06-f-black.webp",
+   "bytes": 511228,
+   "sha256": "eaa7e46c1d68605b176e7aa315474c0fcd7abd0d2ef7080040bb1fb043b7435c",
+   "core_path": "assets/stock/front/06-f-black.webp"
+  },
+  {
+   "path": "stock/front/07-f-brown.webp",
+   "bytes": 516086,
+   "sha256": "8dea1cabbfae04f25e21e89cdfe539f6c0353b743e5fd3237f398229b7bceea7",
+   "core_path": "assets/stock/front/07-f-brown.webp"
+  },
+  {
+   "path": "stock/front/08-f-natural-camo-green.webp",
+   "bytes": 582658,
+   "sha256": "390eec2f6dafe4563096f11c71f6a9cbdf44bca2481fb3e4a48bc734f8672e6c",
+   "core_path": "assets/stock/front/08-f-natural-camo-green.webp"
+  },
+  {
+   "path": "stock/front/09-f-natural-charcoal.webp",
+   "bytes": 482252,
+   "sha256": "449513110eceb6b1432dfe53260811b0939089f78cac47d1688f1dec2dd45adf",
+   "core_path": "assets/stock/front/09-f-natural-charcoal.webp"
+  },
+  {
+   "path": "stock/front/11-f-natural-khaki.webp",
+   "bytes": 545016,
+   "sha256": "5fa2803b9e75777571b1f143c87111669a4fc09ac889ec2d06b2603cd1e85316",
+   "core_path": "assets/stock/front/11-f-natural-khaki.webp"
+  },
+  {
+   "path": "stock/front/12-f-natural-mossy-oak.webp",
+   "bytes": 642770,
+   "sha256": "cdf37edda21247737fa84a760d2d93b75e507c8b4fdf141867fe161c640e466b",
+   "core_path": "assets/stock/front/12-f-natural-mossy-oak.webp"
+  },
+  {
+   "path": "stock/front/README.txt",
+   "bytes": 78,
+   "sha256": "e2d610b8cbf2f4e8a79a847f45455bcf4fed7be6c653726d1745c76269abd06b",
+   "core_path": "assets/stock/front/README.txt"
+  },
+  {
+   "path": "stock/front/natural-forest-green.webp",
+   "bytes": 1605992,
+   "sha256": "b71036c7d8fd85a3d0de8d4b599914d8d93490d89892145d1e0389dc59badc80",
+   "core_path": "assets/stock/front/natural-forest-green.webp"
+  },
+  {
+   "path": "stock/side/01_Navy.webp",
+   "bytes": 804892,
+   "sha256": "295da559f4cbcc60ac5fae01269f54e1654c61edf158095f43b868f3ba9d9680",
+   "core_path": "assets/stock/side/01_Navy.webp"
+  },
+  {
+   "path": "stock/side/02_Realtree.webp",
+   "bytes": 846600,
+   "sha256": "a727eb6ad02e3691c406d463164306d0468ebf72202b40f5df128f10b2d38cbb",
+   "core_path": "assets/stock/side/02_Realtree.webp"
+  },
+  {
+   "path": "stock/side/03_Red.webp",
+   "bytes": 809202,
+   "sha256": "7e4ebd453919f0aea1bc8609e4f00023cbec26c21c3a3a86cc0d7167c5aec5fb",
+   "core_path": "assets/stock/side/03_Red.webp"
+  },
+  {
+   "path": "stock/side/04_Royal.webp",
+   "bytes": 834000,
+   "sha256": "9fa8a20599a89aa2ba73bb1d6ff137f467d89999291b2444bd5ba630534a8570",
+   "core_path": "assets/stock/side/04_Royal.webp"
+  },
+  {
+   "path": "stock/side/05_Maroon.webp",
+   "bytes": 805900,
+   "sha256": "cdcc8a9348eba1429b7c59c09a2f1f1aa3b7840d46e2bbf231bb419a5826ea21",
+   "core_path": "assets/stock/side/05_Maroon.webp"
+  },
+  {
+   "path": "stock/side/06_Black.webp",
+   "bytes": 787888,
+   "sha256": "6539071062af5824f4dcb5b390e57de8e3c87dd0b1c0fb3edce7d37bb5aec5c4",
+   "core_path": "assets/stock/side/06_Black.webp"
+  },
+  {
+   "path": "stock/side/07-brown.webp",
+   "bytes": 390634,
+   "sha256": "e0b7ef9fddb1838cf232394ec4340a3b835427a945a4773be10a180ba6d369b7",
+   "core_path": "assets/stock/side/07-brown.webp"
+  },
+  {
+   "path": "stock/side/08-natural-camo-green.webp",
+   "bytes": 410686,
+   "sha256": "5d57014a5d80ceff4b4a7cb90fcdf191173bf0def99d0b0cb8beaa440376f3bc",
+   "core_path": "assets/stock/side/08-natural-camo-green.webp"
+  },
+  {
+   "path": "stock/side/09-natural-charcoal.webp",
+   "bytes": 396466,
+   "sha256": "41ac51d71a127dd36c490ff1c90de45068dfdc22f3e5eb068a18c0870d836678",
+   "core_path": "assets/stock/side/09-natural-charcoal.webp"
+  },
+  {
+   "path": "stock/side/10-natural-forest-green.webp",
+   "bytes": 412518,
+   "sha256": "52a3c3b10449ca12ef868f6d00a564d791ca6c61a31dadde14a8438e1dceaead",
+   "core_path": "assets/stock/side/10-natural-forest-green.webp"
+  },
+  {
+   "path": "stock/side/11-natural-khaki.webp",
+   "bytes": 373630,
+   "sha256": "529c1d4ac91a10a15edb24ae47fa93532ae0b937a12abb888e8d39327d5b8b07",
+   "core_path": "assets/stock/side/11-natural-khaki.webp"
+  },
+  {
+   "path": "stock/side/12-natural-mossy-oak.webp",
+   "bytes": 410672,
+   "sha256": "745e8a5e79619a7327f427a55b09e15e2e4b98dfb7f7bbc1c3749b816955c0f3",
+   "core_path": "assets/stock/side/12-natural-mossy-oak.webp"
+  },
+  {
+   "path": "stock/side/README.txt",
+   "bytes": 77,
+   "sha256": "31246836f7f987d1a09363ec317dfa730fc8a3fdb15e69a0126db394f8dd6464",
+   "core_path": "assets/stock/side/README.txt"
+  },
+  {
+   "path": "stock/three-quarter/01-34-navy.webp",
+   "bytes": 147748,
+   "sha256": "cca8d2d6856f36e51a22c92467f38795c64f97d9a91cc33afb6632c6bb1142fe",
+   "core_path": "assets/stock/three-quarter/01-34-navy.webp"
+  },
+  {
+   "path": "stock/three-quarter/02-34-realtree.webp",
+   "bytes": 169160,
+   "sha256": "f86d0f21aa2c882063e51acf01e260000a7db979c3c9a0d57138e849803a7b2e",
+   "core_path": "assets/stock/three-quarter/02-34-realtree.webp"
+  },
+  {
+   "path": "stock/three-quarter/03-34-red.webp",
+   "bytes": 140148,
+   "sha256": "32c2bcf336a2f14198dc38c1e894950d80307036d536909d7406b20dd3f992cb",
+   "core_path": "assets/stock/three-quarter/03-34-red.webp"
+  },
+  {
+   "path": "stock/three-quarter/04-34-royal.webp",
+   "bytes": 138930,
+   "sha256": "f3ec3dd6d29ac4fb9b1126046c5ae2c5245e214b9a4bdd29c9cc53844f23e761",
+   "core_path": "assets/stock/three-quarter/04-34-royal.webp"
+  },
+  {
+   "path": "stock/three-quarter/05-34-maroon.webp",
+   "bytes": 139522,
+   "sha256": "36028a49bd7617e4e723b3a8e6e0c328a77465c6b2fcbf1f5d14946e7cd59ac0",
+   "core_path": "assets/stock/three-quarter/05-34-maroon.webp"
+  },
+  {
+   "path": "stock/three-quarter/06-34-black.webp",
+   "bytes": 120852,
+   "sha256": "9b412d5108266764c84486b69de2d6220c4760ed13b45ca9f8f04f5ca2f2c46a",
+   "core_path": "assets/stock/three-quarter/06-34-black.webp"
+  },
+  {
+   "path": "stock/three-quarter/07-34-brown.webp",
+   "bytes": 126812,
+   "sha256": "e0ed5da642adb79559de05a76c3dfc5ccb1627217f13596a9990e9db10cfa670",
+   "core_path": "assets/stock/three-quarter/07-34-brown.webp"
+  },
+  {
+   "path": "stock/three-quarter/08-34-natural-camo-green.webp",
+   "bytes": 146082,
+   "sha256": "27f46497c9a356d1c8117180a4933e2494dbd60ad862e99d1da17dc8a7484176",
+   "core_path": "assets/stock/three-quarter/08-34-natural-camo-green.webp"
+  },
+  {
+   "path": "stock/three-quarter/09-34-natural-charcoal.webp",
+   "bytes": 134910,
+   "sha256": "423855eedaa416a02a76c961fd0c7a6f6c6638789feb79db90e3fe660528d48a",
+   "core_path": "assets/stock/three-quarter/09-34-natural-charcoal.webp"
+  },
+  {
+   "path": "stock/three-quarter/10-34-natural-forest-green.webp",
+   "bytes": 141488,
+   "sha256": "f33ac265e1b92e04c2aec5139a6214f544979476c767949d139eccf3c838799d",
+   "core_path": "assets/stock/three-quarter/10-34-natural-forest-green.webp"
+  },
+  {
+   "path": "stock/three-quarter/11-34-natural-khaki.webp",
+   "bytes": 123988,
+   "sha256": "ea3983805144d5f18b9bfd047ac10f83fc70b339edc799ec6b5c201d8f69c210",
+   "core_path": "assets/stock/three-quarter/11-34-natural-khaki.webp"
+  },
+  {
+   "path": "stock/three-quarter/12-34-natural-mossy-oak.webp",
+   "bytes": 165906,
+   "sha256": "e3eead7de47b8f3f39d27cca78facb8765ed87c36e25580692af3a09ff8d244e",
+   "core_path": "assets/stock/three-quarter/12-34-natural-mossy-oak.webp"
+  },
+  {
+   "path": "stock/three-quarter/README.txt",
+   "bytes": 86,
+   "sha256": "2d0bbf2253731eb7ebca0691c6f4c49bf9bcad11059e5baae58423bd8af6e944",
+   "core_path": "assets/stock/three-quarter/README.txt"
+  }
+ ],
+ "note": "path = file in this repo; core_path = where the Core skill expects it."
+}
